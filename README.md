@@ -4,7 +4,7 @@ This Repository contains Digital electronics circuits Simulated in Logic Circuit
 ***Note:*** In practical, the ICs which we have choosen contains +Vcc(Supply pin at pin-14) and Grd(Ground at Pin-7) but in the application we don't require any kind of external supply or Ground, so we have neglected the pin number **7** and **14**.
 
 1.IC 7432
-<img src="![7432 pinout] https://user-images.githubusercontent.com/85921230/158516197-0f3fefee-4e39-4640-aed7-3163070cb7e6.jpeg" width="250" height="250" />
+<img src="https://user-images.githubusercontent.com/85921230/158516197-0f3fefee-4e39-4640-aed7-3163070cb7e6.jpeg" width="250" height="250" />
 
 ![WhatsApp Image 2022-03-16 at 9 42 02 AM (5)](https://user-images.githubusercontent.com/85921230/158516266-b997b9f3-ecc2-479f-b376-87d35f45fee4.jpeg)
 
