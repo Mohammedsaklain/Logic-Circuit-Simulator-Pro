@@ -50,3 +50,8 @@ This Repository contains Digital electronics circuits Simulated in Logic Circuit
 
 <img src="https://user-images.githubusercontent.com/85921230/158516724-f29a54a3-4c53-4b14-b88e-532cd1282f20.jpeg"  width="250" height="250" />
 <img src="https://user-images.githubusercontent.com/85921230/158516762-99dd8e63-a942-4e26-884a-66069a0404a3.jpeg"  width="250" height="250" />
+ 
+ **The IC's**
+ 
+ 
+<img src="https://user-images.githubusercontent.com/85921230/158519361-dc62e4bb-3691-4bcf-aec8-15e96bdc2111.jpeg" width="250" height="250" />
